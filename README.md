@@ -18,6 +18,10 @@ This project facilitates the management of employees by creating a database in w
 
 ![alt text](img/pic.png)
 
+Link to video:
+
+[Employee Tracker Video](https://drive.google.com/file/d/1efQBliX8TR_ghGCueyZcUmLTWHxb0BjA/view?usp=drive_link)
+
 ## User Story
 ```
 AS A business owner
