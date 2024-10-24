@@ -1,0 +1,26 @@
+{
+  "name": "employee-tracker",
+  "version": "1.0.0",
+  "description": "Module 10 - SQL Challenge - Employee Tracker",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fab-labo/Employee-Tracker"
+  },
+  "author": "Fabricio Laboriel",
+  "license": "MIT",
+  "bugs": {},
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "dotenv": "^16.4.5",
+    "inquirer": "^8.2.4",
+    "mysql2": "^3.11.3",
+    "npm": "^10.9.0",
+    "pg": "^8.13.1",
+    "start": "^5.1.0"
+  }
+}
